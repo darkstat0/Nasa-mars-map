@@ -302,3 +302,4 @@ export const EVA_PHYSICS = {
   totalBatteryWh: 1500, // suit battery capacity
   safeSlopeLimitDeg: 20.0 // slopes steeper than 20° trigger hazard alarms
 };
+

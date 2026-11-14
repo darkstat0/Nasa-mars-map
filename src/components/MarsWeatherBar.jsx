@@ -142,3 +142,4 @@ export default function MarsWeatherBar({ weather, setWeather }) {
     </div>
   );
 }
+

@@ -130,3 +130,4 @@ export default function BoxworkScienceGuide({ onClose }) {
     </div>
   );
 }
+
